@@ -1,4 +1,7 @@
 # Beesmas-quests-checklist
+Google Sheets(view-only):
+https://docs.google.com/spreadsheets/d/e/2PACX-1vReCJ_xyqyn3A4SAD19WamLEymgadmvmFusZaO47nRB7Loqht8w3o9h3fZJbEUrdd85LKeviON0aCVs/pubhtml
+
 Quest planner for Beesmas NPC quests in Bee Swarm Simulator
 
 This repository contains a Google Sheets checklist for NPC quests in Bee Swarm Simulator, focused mainly on the Beesmas event.
